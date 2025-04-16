@@ -27,4 +27,4 @@
 
 ## Languages and Tools: 
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,visualstudio,pycharm,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,visualstudio,pycharm,github)](https://skillicons.dev)

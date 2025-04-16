@@ -28,3 +28,13 @@
 ## Languages and Tools: 
 
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,visualstudio,pycharm,github)](https://skillicons.dev)
+
+---
+
+### Latest Blog Posts
+
+<!--BLOG-POST-LIST: START -->
+
+
+
+<!--BLOG-POST-LIST: END -->

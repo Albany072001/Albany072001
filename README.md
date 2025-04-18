@@ -10,7 +10,7 @@
 - Goals: Create my own application to fufill a need I have 📱
 - Fun Facts: I am a cat lover 🐈, I love rock music 🎸 and hockey 🏒
 
-## Education
+### Education
 
 **Bachelor's Degree in Applied Science - Web Developer**  
 *Broward College | Davie, FL | 2024-2028*
@@ -25,7 +25,7 @@
 [![LinkedIn Icon](images/linkedin.png)](https://www.linkedin.com/in/albany-tafuro-33b622220/)
 [![Instagram Icon](images/instagram.png)](https://www.instagram.com/alby_07t/)
 
-## Languages and Tools: 
+###  Languages and Tools: 
 
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,visualstudio,pycharm,github)](https://skillicons.dev)
 

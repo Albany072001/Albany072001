@@ -38,7 +38,7 @@
 ## GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Last push 
-2. 🗣 Commented on
+1. 🗣 Last pull
+2. 🗣 Last commit
 3. 🔒 Closed issue
 <!--END_SECTION:activity-->

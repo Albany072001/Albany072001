@@ -31,10 +31,6 @@
 
 ---
 
-### Latest Blog Posts
+### Most used languages:
 
-<!--BLOG-POST-LIST: START -->
-
-
-
-<!--BLOG-POST-LIST: END -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albany072001&theme=tokyonight)

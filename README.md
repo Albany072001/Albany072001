@@ -31,6 +31,6 @@
 
 ---
 
-### Most used languages:
+### Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albany072001&theme=tokyonight)

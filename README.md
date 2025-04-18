@@ -20,17 +20,17 @@
 
 ---
 
-### Conect with me:
+### Conect with me
 
 [![LinkedIn Icon](images/linkedin.png)](https://www.linkedin.com/in/albany-tafuro-33b622220/)
 [![Instagram Icon](images/instagram.png)](https://www.instagram.com/alby_07t/)
 
-###  Languages and Tools: 
+###  Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,visualstudio,pycharm,github)](https://skillicons.dev)
 
 ---
 
-### Albany's stats:
+### Albany's stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albany072001&theme=tokyonight)

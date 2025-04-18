@@ -35,10 +35,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albany072001&theme=tokyonight)
 
-## GitHub Activity
+<!--## GitHub Activity -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Last pull
+<!--1. 🗣 Last pull
 2. 🗣 Last commit
-3. 🔒 Closed issue
+3. 🔒 Closed issue-->
+
 <!--END_SECTION:activity-->
+
+
+

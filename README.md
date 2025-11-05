@@ -13,9 +13,9 @@
 ### Education
 
 **Bachelor's Degree in Applied Science - Web Developer**  
-*Broward College | Davie, FL | 2024-2028*
+*Broward College | Davie, FL | 2024-Estimated to complete in 2028*
 
-**Associate Degree in Arts - Marketing**  
+**Associate Degree in Arts**  
 *Broward College | Davie, FL | 2020-2024*
 
 ---

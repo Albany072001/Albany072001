@@ -33,7 +33,7 @@
 
 ### Albany's stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albany072001&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albany072001&theme=tokyonight&layout=compact&cache_seconds=86400)
 
 <!--## GitHub Activity -->
 

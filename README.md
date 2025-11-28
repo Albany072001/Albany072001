@@ -30,10 +30,14 @@
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,visualstudio,pycharm,github)](https://skillicons.dev)
 
 ---
+### 🧠 Top Languages
 
-### Albany's stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albany072001&theme=tokyonight&layout=compact&cache_seconds=86400)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 
 <!--## GitHub Activity -->
 

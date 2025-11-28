@@ -27,7 +27,8 @@
 
 ###  Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,visualstudio,pycharm,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,visualstudio,pycharm,github,figma,vscode)](https://skillicons.dev)
+
 
 ---
 ### 🧠 Top Languages
@@ -38,6 +39,17 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+
+## 🚀 Featured Projects
+
+- **Pet Adoption Center App** — A web application for managing and showcasing pets available for adoption.  
+  💻 [Repository](https://github.com/20261-Classes/cts3870c-lab-6-Albany072001)
+
+- **Sushi Restaurant App** — A web application featuring a sushi restaurant, including menu display and basic restaurant functionalities.  
+  💻 [Repository](https://github.com/20261-Classes/cts3870c-lab-4-Albany072001)
+
+- **Childcare Database App** — A database application for managing childcare information, including records of children and associated details.  
+  💻 [Repository](https://github.com/20261-Classes/cts3870c-lab-7-Albany072001)
 
 <!--## GitHub Activity -->
 

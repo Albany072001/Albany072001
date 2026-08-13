@@ -1,6 +1,6 @@
 ## Hello everyone, welcome to my github profile!
 
-📍 Coral Springs, FL 
+📍 FL, United States of America 
 
 ## I am a Wife, student and Web Developer!
 - I'm currently pursuing my Bachelor's degree in **web development** 💻🧠

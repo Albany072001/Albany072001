@@ -1,36 +1,27 @@
-## Hello everyone, welcome to my github profile!
+## Hello Everyone, Welcome to my GitHub Profile!
 
 📍 FL, United States of America 
 
 ## I am a Wife, student and Web Developer!
 - I'm currently pursuing my Bachelor's degree in **web development** 💻🧠
-- I' m looking to get more involve in my career's community 
-- I am originally from Caracas, Venezuela 
-- Ready to learn everything in my parthway to be a better developer 
-- Goals: Create my own application to fufill a need I have 📱
-- Fun Facts: I am a cat lover 🐈, I love rock music 🎸 and hockey 🏒
+- I' m looking to get more involve in my careers community 
+- Ready to learn everything in my pathway to be a better developer 
+- Goals: Create my own applications to fulfill needs📱
+- Fun Facts: I am a cat lover 🐈, I love rock genre 🎸 and hockey 🏒
 
 ### Education
 
 **Bachelor's Degree in Applied Science - Web Developer**  
 *Broward College | Davie, FL | 2024-Estimated to complete in 2028*
 
+**Technical Certificate - Graphic Design Support**  
+*Broward College | Davie, FL | 2026-Estimated to complete in 2028*
+
 **Associate Degree in Arts**  
 *Broward College | Davie, FL | 2020-2024*
 
 ---
 
-### Conect with me
-
-[![LinkedIn Icon](images/linkedin.png)](https://www.linkedin.com/in/albany-tafuro-33b622220/)
-[![Instagram Icon](images/instagram.png)](https://www.instagram.com/alby_07t/)
-
-###  Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,visualstudio,pycharm,github,figma,vscode)](https://skillicons.dev)
-
-
----
 ### 🧠 Top Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
@@ -40,7 +31,26 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 
+---
+
+###  Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,visualstudio,pycharm,github,figma,vscode)](https://skillicons.dev)
+
+
 ## 🚀 Featured Projects
+
+- **Panacean Med Span** — A responsive, multi-page front-end prototype for Panacean Medical Spa, developed from a Figma Make design and maintained as a React application.  
+  💻 [Repository](https://github.com/Albany072001/PanaceaMedicalSpaWebsite)
+
+- **Patient Dashboard Mockup** — A responsive patient dashboard developed, built to retrieve patient information from an external REST API using JavaScript's Fetch API and Basic Authentication.  
+  💻 [Repository](https://github.com/Albany072001/patient-dashboard)
+
+
+## 🚀 Featured Projects
+
+- **CSS Zen Garden** — An illustrated, scroll-driven interpretation of CSS Zen Garden.  
+  💻 [Repository](https://github.com/Albany072001/csszengarden)
 
 - **Pet Adoption Center App** — A web application for managing and showcasing pets available for adoption.  
   💻 [Repository](https://github.com/20261-Classes/cts3870c-lab-6-Albany072001)
@@ -50,6 +60,12 @@
 
 - **Childcare Database App** — A database application for managing childcare information, including records of children and associated details.  
   💻 [Repository](https://github.com/20261-Classes/cts3870c-lab-7-Albany072001)
+
+---
+
+### Conect with me
+
+[![LinkedIn Icon](images/linkedin.png)](https://www.linkedin.com/in/albany-tafuro-33b622220/)
 
 <!--## GitHub Activity -->
 

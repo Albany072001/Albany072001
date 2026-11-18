@@ -47,7 +47,7 @@
   💻 [Repository](https://github.com/Albany072001/patient-dashboard)
 
 
-## 🚀 Featured Projects
+## 🚀 Featured School Projects
 
 - **CSS Zen Garden** — An illustrated, scroll-driven interpretation of CSS Zen Garden.  
   💻 [Repository](https://github.com/Albany072001/csszengarden)

@@ -2,7 +2,7 @@
 
 📍 FL, United States of America 
 
-## I am a Wife, student and Web Developer!
+## I am a Web Developer and UI/UX Designer!
 - I'm currently pursuing my Bachelor's degree in **web development** 💻🧠
 - I' m looking to get more involve in my careers community 
 - Ready to learn everything in my pathway to be a better developer 
